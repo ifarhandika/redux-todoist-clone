@@ -1,11 +1,11 @@
 import React from "react"
-import ToDo from "./components/toDo/ToDo"
-import './index.css'
+import Dashboard from "./components/dashboard/Dashboard"
+import "./index.css"
 
 function App() {
   return (
     <>
-      <ToDo />
+      <Dashboard />
     </>
   )
 }
